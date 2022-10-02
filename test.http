@@ -1,0 +1,9 @@
+@host = viacep.com.br/ws
+
+###
+GET {{host}}/59070660/json
+Content-Type: application/json
+
+###
+GET viacep.com.br/ws/59070660/json/
+Content-Type: application/json
