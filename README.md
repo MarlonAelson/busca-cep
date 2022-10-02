@@ -1,2 +1,2 @@
 # Busca Cep
-# HTML + Javascript + Bootstrap + Api VIACEP
+# HTML + Javascript + Bootstrap (CDN) + Api VIACEP
